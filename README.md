@@ -10,9 +10,12 @@
 
 ## 🧠 Sobre mí
 
-- 🎯 Apasionado por la tecnología y el desarrollo web.
-- 🚀 Siempre aprendiendo y mejorando mis habilidades.
-- 🤝 Me gusta colaborar en equipo y aportar en proyectos con impacto.
+I'm a developer passionate about technology and emerging tools. I specialize in full stack web development, combining experience in frontend and backend with strong skills in databases and cloud services.
+
+🔎 I strive to write clean, efficient, and maintainable code.
+📚 I'm constantly learning, exploring new tools, frameworks, and development methodologies.
+🤝 I enjoy working in teams, sharing knowledge, and contributing to projects with real impact.
+🚀 My goal is to grow professionally by delivering well-structured, efficient, and tailored solutions.
 
 ---
 
